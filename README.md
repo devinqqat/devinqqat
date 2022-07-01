@@ -3,7 +3,7 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;I+improving+creativity&center=true&width=500&height=50"></a>
 </p>
 <br>
-<h1> Connect with me:<h1>
+<h2> Connect with me:<h2>
 
 <p align = "center">
 
