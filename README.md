@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm İlker Öztürk "qorncat" <a href="#" style="pointer-events: none"><img href="<nolink>" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a></h1>
+<h1 align="center">Hi , I'm İlker Öztürk "qorncat" <a href="<nolink>" style="pointer-events: none"><img href="<nolink>" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a></h1>
 <p align="center" nolink>
   <a href="#" ><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;I+improving+creativity&center=true&width=500&height=50"></a>
 </p>
