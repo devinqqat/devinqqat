@@ -16,5 +16,5 @@
 
 | <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat&" alt="qorncat" /></p> |
 | ------------- | ------------- |
-| <p>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.” – Elon Musk </p> |
+<p>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.” – Elon Musk </p>
 | ------------- | ------------- |
