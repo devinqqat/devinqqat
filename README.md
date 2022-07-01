@@ -15,4 +15,4 @@
 
  | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qorncat&show_icons=true&include_all_commits=true&theme=white&hide_border=true" alt="qorncat's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorncat&layout=compact&theme=white&hide_border=true" /></a> |
 | ------------- | ------------- |
- | <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat" alt="qorncat" /></p> |   <a href="#" ><img src="https://readme-typing-svg.herokuapp.com?lines=Nice+To+Meet+You!&center=true&width=780&height=50"></a>
+ | <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat" alt="qorncat" /></p> |   <a href="#" ><img src="https://readme-typing-svg.herokuapp.com?lines=Nice+To+Meet+You!&center=true&width=500&height=50"></a>
