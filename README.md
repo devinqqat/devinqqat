@@ -4,7 +4,7 @@
 </p>
 <br>
   Website <a href="https://qorncat.com" target="_blank">https://qorncat.com</a>
-  Email: contact@qorncat.com
+                          Email: contact@qorncat.com
   <br>
 <h2> Connect with me:<h2>
 
