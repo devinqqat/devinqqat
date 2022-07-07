@@ -3,8 +3,7 @@
   <a href="#" ><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;I+improving+creativity&center=true&width=500&height=50"></a>
 </p>
 <br>
-  <a href="https://qorncat.com" target="_blank">Website</a><br>
-  contact@qorncat.com
+  <a href="https://qorncat.com" target="_blank">Website</a>  contact@qorncat.com
   <br>
 <h2> Connect with me:<h2>
 <p align = "center">
