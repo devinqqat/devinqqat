@@ -17,5 +17,5 @@
 | ------------- | ------------- |
  | <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat" alt="qorncat" /></p> |   <a href="#" ><img src="http://readme-typing-svg.herokuapp.com?size=35&color=00F72F&background=FFFFFF00&width=500&lines=Nice+to+meet+you!&center=true&Center=true"></a>
 
-  <a href="https://qorncat.com" target="_blank">Website</a>
+  Website <a href="https://qorncat.com" target="_blank">https://qorncat.com</a>
   Email: contact@qorncat.com
