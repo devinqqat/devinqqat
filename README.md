@@ -3,11 +3,10 @@
   <a href="#" ><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;I+improving+creativity&center=true&width=500&height=50"></a>
 </p>
 <br>
-  Website <a href="https://qorncat.com" target="_blank">https://qorncat.com</a><br>
+  <a href="https://qorncat.com" target="_blank">Website</a><br>
+  contact@qorncat.com
   <br>
 <h2> Connect with me:<h2>
-
-contact@qorncat.com
 <p align = "center">
 [<img href="#" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/qorncat/)
 [<img href="#" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@qorncat)
