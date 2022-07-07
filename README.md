@@ -7,8 +7,8 @@
   <br>
 <h2> Connect with me:<h2>
 
-<p align = "center">
 contact@qorncat.com
+<p align = "center">
 [<img href="#" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/qorncat/)
 [<img href="#" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@qorncat)
 [<img href="#" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/qorncat)
