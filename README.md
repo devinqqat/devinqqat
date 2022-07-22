@@ -12,6 +12,6 @@
 [<img href="#" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/qorncat)
 </p>
   
- |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorncat&layout=compact&theme=white&hide_border=true" /></a> |
- | <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat" alt="qorncat" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorncat&layout=compact&theme=white&hide_border=true" /></a>
+ <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat" alt="qorncat" /></p>
 
