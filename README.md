@@ -12,8 +12,6 @@
 [<img href="#" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/qorncat)
 </p>
   
- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qorncat&show_icons=true&include_all_commits=true&theme=white&hide_border=true" alt="qorncat's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorncat&layout=compact&theme=white&hide_border=true" /></a> |
-| ------------- | ------------- |
- | <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat" alt="qorncat" /></p> |   <a href="#" ><img src="http://readme-typing-svg.herokuapp.com?size=35&color=00F72F&background=FFFFFF00&width=500&lines=Nice+to+meet+you!&center=true&Center=true"></a>
-
+ |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorncat&layout=compact&theme=white&hide_border=true" /></a> |
+ | <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat" alt="qorncat" /></p>
 
