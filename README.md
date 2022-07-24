@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/qorncat/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 
 
-Ben çok yönlü bir insanım ve projenin gerektirdiği şeye bağlı olarak farklı beyne (Tam Yığın Web Geliştiricisi 🌐 ve Masaüstü Uygulaması Geliştiricisi) kolayca uyum sağlarım. Yeni teknoloji yığınını 💻 keşfetmeyi ve onlardan harika şeyler 🛠️ oluşturmak için yararlanmayı seviyorum.
+I am only at peace while coding. Thanks to coding, I have revealed many aspects of myself and got to know myself. I recommend it to you too.🌐
 <br/>
 <br/>
 
