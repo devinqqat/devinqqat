@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/qorncat/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 
 
-I am only at peace while coding. Thanks to coding, I have revealed many aspects of myself and got to know myself. I recommend it to you too.🌐
+I am only at peace while coding. Thanks to coding, I have revealed many aspects of myself and got to know myself. I recommend it to you too.😊
 <br/>
 <br/>
 
@@ -19,7 +19,13 @@ I am only at peace while coding. Thanks to coding, I have revealed many aspects 
 
 <br>
 
-### 🔨 Languages and Tools:
+<h3> 🌐 Languages: </h3>
 <a href="https://github.com/qorncat?tab=repositories&q=&type=&language=python&sort=" target="_blank"><img align="left" alt="Python" height ="42px" src="./language_and_tools/square/python/python.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./language_and_tools/square/node/node.svg"></a>
-<a href="https://github.com/qorncat?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./language_and_tools/square/javascript/javascript.svg"></a>
+<a href="https://github.com/qorncat?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="./language_and_tools/square/javascript/javascript.svg"></a>
+
+<br><br>
+<h1></h1>
+<h3> 🔨 Projects: </h3>
+
+![qornjs](https://github-readme-stats.vercel.app/api/pin?username=qorncat&repo=qornjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
