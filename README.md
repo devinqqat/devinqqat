@@ -1,17 +1,37 @@
-<h1 align="center">Hi , I'm İlker Öztürk "qorncat" <a href="#" style="pointer-events: none"><img href="<nolink>" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a></h1>
-<p align="center" nolink>
-  <a href="#" ><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;I+improving+creativity&center=true&width=500&height=50"></a>
-</p>
-  <br>
-<h2> Connect with me:<h2>
-  
-<p align = "center">
-  
-[<img href="#" target="_blank" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/qorncat/)
-[<img href="#" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@qorncat)
-[<img href="#" target="_blank" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/qorncat)
-</p>
-  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorncat&layout=compact&theme=white&hide_border=true" /></a>
- <p href="#"><img href="#" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat" alt="qorncat" /></p>
+## Hey 👋, I'm Ilker Ozturk!
+<a href='https://www.linkedin.com/in/qorncat/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 
+
+Ben çok yönlü bir insanım ve projenin gerektirdiği şeye bağlı olarak farklı beyne (Tam Yığın Web Geliştiricisi 🌐 ve Masaüstü Uygulaması Geliştiricisi) kolayca uyum sağlarım. Yeni teknoloji yığınını 💻 keşfetmeyi ve onlardan harika şeyler 🛠️ oluşturmak için yararlanmayı seviyorum.
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="./200w.gif" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m learning everyday something about coding! (It's won't finished)
+- 🤝 &nbsp; I’m actively updating [my javascript npm package](https://github.com/qorncat/qornjs)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/qorncat/)
+- 📚 &nbsp; When I am free, I making practice on English
+
+<br>
+
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="./language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="./language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="./language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="./language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="./language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="./language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="./language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="./language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="./language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="./language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+<br>
