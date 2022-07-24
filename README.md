@@ -7,9 +7,9 @@
   
 <p align = "center">
   
-[<img href="#" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/qorncat/)
-[<img href="#" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@qorncat)
-[<img href="#" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/qorncat)
+[<img href="#" target="_blank" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/qorncat/)
+[<img href="#" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@qorncat)
+[<img href="#" target="_blank" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/qorncat)
 </p>
   
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorncat&layout=compact&theme=white&hide_border=true" /></a>
