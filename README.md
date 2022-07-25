@@ -1,5 +1,4 @@
-## Hey 👋, I'm Ilker Ozturk!
-<a href='https://www.linkedin.com/in/qorncat/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
+## Hey 👋, I'm Ilker Ozturk! [[Stats]](https://github.com/qorncat/qorncat/blob/main/mystats.md)<a href='https://www.linkedin.com/in/qorncat/'><img align='right' alt="linkedin" src="./assets/linkedin.svg" height='25px'/></a>
 
 
 I am only at peace while coding. Thanks to coding, I have revealed many aspects of myself and got to know myself. I recommend it to you too.😊
@@ -23,15 +22,6 @@ I am only at peace while coding. Thanks to coding, I have revealed many aspects 
 <a href="https://github.com/qorncat?tab=repositories&q=&type=&language=python&sort=" target="_blank"><img align="left" alt="Python" height ="42px" src="./language_and_tools/square/python/python.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./language_and_tools/square/node/node.svg"></a>
 <a href="https://github.com/qorncat?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="./language_and_tools/square/javascript/javascript.svg"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <h3> 🔨 Projects: </h3>
 <a href="https://github.com/qorncat/qornjs" target="_blank"><img align="left" alt="qornjs" src="https://github-readme-stats.vercel.app/api/pin?username=qorncat&repo=qornjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-
-<div><br></div>
-<br>
-<br/>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-
-   <a href="https://github.com/qorncat/qorncat/blob/main/mystats.md"> <h2 style="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊Stats&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></a>
