@@ -20,7 +20,7 @@ I am only at peace while coding. Thanks to coding, I have revealed many aspects 
 
 <h3> 🌐 Languages: </h3>
 <a href="https://github.com/qorncat?tab=repositories&q=&type=&language=python&sort=" target="_blank"><img align="left" alt="Python" height ="42px" src="./language_and_tools/square/python/python.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./language_and_tools/square/node/node.svg"></a>
+<a href="#" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./language_and_tools/square/node/node.svg"></a>
 <a href="https://github.com/qorncat?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="./language_and_tools/square/javascript/javascript.svg"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <h3> 🔨 Projects: </h3>
