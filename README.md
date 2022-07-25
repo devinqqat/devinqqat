@@ -29,21 +29,3 @@ I am only at peace while coding. Thanks to coding, I have revealed many aspects 
 <h3> 🔨 Projects: </h3>
 <a href="https://github.com/qorncat/qornjs" target="_blank"><img align="left" alt="qornjs" src="https://github-readme-stats.vercel.app/api/pin?username=qorncat&repo=qornjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 <br><br>
-<h1></h1>
-# 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
-
-<p align="center">
-  <a href="https://github.com/AdityaKumar28">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumar28&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=AdityaKumar28&theme=react-dark" />
-  </a>
-</p>
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-</div>
