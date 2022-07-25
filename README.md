@@ -27,5 +27,4 @@ I am only at peace while coding. Thanks to coding, I have revealed many aspects 
 <br><br>
 <h1></h1>
 <h3> 🔨 Projects: </h3>
-
-![qornjs](https://github-readme-stats.vercel.app/api/pin?username=qorncat&repo=qornjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/qorncat/qornjs" target="_blank"><img align="left" alt="qornjs" height ="42px" src="https://github-readme-stats.vercel.app/api/pin?username=qorncat&repo=qornjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
