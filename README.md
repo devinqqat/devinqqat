@@ -28,3 +28,6 @@ I am only at peace while coding. Thanks to coding, I have revealed many aspects 
 <h1></h1>
 <h3> 🔨 Projects: </h3>
 <a href="https://github.com/qorncat/qornjs" target="_blank"><img align="left" alt="qornjs" src="https://github-readme-stats.vercel.app/api/pin?username=qorncat&repo=qornjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+
+<h3> 🔨 Stats: </h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qorncat&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
