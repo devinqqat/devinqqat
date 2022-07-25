@@ -1,14 +1,15 @@
-
+  <a href="https://github.com/qorncat">
 # 📈 Statistics 📈 ![](https://komarev.com/ghpvc/?username=qorncat&color=447ff7&label=Visitor+count)
 
 
 <p align="center">
-  <a href="https://github.com/qorncat">
+
     <img src="https://github-readme-stats.vercel.app/api?username=qorncat&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=qorncat&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=qorncat&theme=react-dark" />
-  </a>
+
 </p>
+    </a>
 
 
 <p  align="center">
