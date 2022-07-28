@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ilker Ozturk! [[Stats]](https://github.com/qorncat/qorncat/blob/main/mystats.md)<a href='https://www.linkedin.com/in/qorncat/'><img align='right' alt="linkedin" src="./assets/linkedin.svg" height='25px'/></a>
+## Hey 👋, I'm Ilker Ozturk! <a href="https://instagram.com/qorncat"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png"></img></a><a href="https://linkedin.com/qorncat">&nbsp;&nbsp;<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"></img></a>
 
 
 I am only at peace while coding. Thanks to coding, I have revealed many aspects of myself and got to know myself. I recommend it to you too.😊
