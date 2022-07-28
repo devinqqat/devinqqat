@@ -24,5 +24,3 @@ I am only at peace while coding. Thanks to coding, I have revealed many aspects 
 <a href="https://github.com/qorncat?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="./language_and_tools/square/javascript/javascript.svg"></a>
 <a href="https://github.com/qorncat?tab=repositories&q=&type=&language=typescript&sort=" target="_blank"><img align="left" alt="TypeScript" height ="42px" src="./language_and_tools/square/typescript/typescript.svg"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<h3> 🔨 Projects: </h3>
-<a href="https://github.com/qorncat/qornjs" target="_blank"><img align="left" alt="qornjs" src="https://github-readme-stats.vercel.app/api/pin?username=qorncat&repo=qornjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
